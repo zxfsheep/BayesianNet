@@ -1,0 +1,8 @@
+a,b,c,d,e
+2,2,2,2,2
+h,o,o,o,o
+a,Root
+b,a
+c,a
+d,a
+e,a,b,c,d
