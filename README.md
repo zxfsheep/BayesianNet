@@ -1,2 +1,2 @@
-# BayesianNet
-Experimenting with BayesianNet using TensorFlow
+# Bayesian networks
+Experimenting with Bayesian networks using TensorFlow.
